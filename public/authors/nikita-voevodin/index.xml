@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikita Voevodin</title>
+    <link>/authors/nikita-voevodin/</link>
+      <atom:link href="/authors/nikita-voevodin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikita Voevodin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nikita Voevodin</title>
+      <link>/authors/nikita-voevodin/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing Taxis and For-Hire Vehicle Models in NYC</title>
+      <link>/post/tlc1/tlc/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/tlc1/tlc/</guid>
+      <description>&lt;p&gt;TLC-licensed drivers use many different kinds of vehicles in New York City to move more than 800,000 passengers a day, and certain models have been the most popular over the years.&lt;/p&gt;
+
+&lt;p&gt;If you looked at the city’s streets during the first half of the 2000s, you would likely see a rising number of Ford Crown Victorias and a waning number of Chevrolet Caprices, which were discontinued in 1997. Our inspection data shows the Crown Victoria was the most popular choice for the yellow cab industry at the time, while the same was true in the black car industry for Lincoln Town Cars.&lt;/p&gt;
+
+&lt;p&gt;There were many reasons for the Crown Victoria’s popularity, among them the fact that it was fairly big and relatively comfortable, particularly after Ford added seven inches to the rear passenger compartment in late 2001. Unfortunately, the drivers only received an extra inch of legroom.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/638/1*YvOsjXdYrxlibvtCpIXThQ.gif&#34; alt=&#34;Alt Text&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you look around now, you will see Toyota Camrys everywhere. The Camry’s fuel efficiency and cost has made it the vehicle of choice since the emergence of the app-based black car companies in the 2010s, where the vast majority of drivers own their vehicles. The Camry’s popularity has resulted in the model now comprising 75% of the top ten vehicles on the road during the past three years, and close to 15% of all the vehicles in the TLC-licensed vehicle fleet, making it the leader of the current era.
+If you prefer to see what’s popular digitally, check out &lt;a href=&#34;https://tlc_blog_posts.gitlab.io/word_cloud/car_cloud1.html&#34; target=&#34;_blank&#34;&gt;this simple dashboard&lt;/a&gt;. Refresh your browser, and a “WordCloud” of our fleet will appear, showing what the popular models for TLC-licensed professional drivers in New York City.&lt;/p&gt;
+
+&lt;p&gt;The City has been collecting vehicle information as part of its inspection data for decades, but most consistently after 2000. The data from the past three years is visualized using “RStudio” and its tools such as “Markdown,” “Flexdashboard”, and “WordCloud2.”&lt;/p&gt;
+
+&lt;p&gt;Nikita Voevodin is a Policy Analyst at the New York City Taxi &amp;amp; Limousine Commission (TLC). He formerly worked on New York State legislation at the New York State Assembly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYCTLC/visualizing-taxis-and-for-hire-vehicle-models-in-nyc-19278ad23466&#34; target=&#34;_blank&#34;&gt;Here is the link to the full post&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

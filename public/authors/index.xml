@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Nikita Voevodin</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to my website. Here you can find out a little bit about me - my professional past, current activities, and future aspirations.&lt;/p&gt;
+
+&lt;p&gt;I am a professional data analyst and software developer with current concentration in interactive visualizaitons and database setup in the context of app developement. Currently, I am a senior data analyst at the Taxi &amp;amp; Limousine Commission of the New York City. My work involves developing and automating big data processes, building and interacting with databases, creating apps and dashboards for TLC and the public, as well as conducting high level research to impower impactful legislation in the area of city transportation. In my spare time I like to play beach volleyball, watch soccer and documentaries, and code a bit more.&lt;/p&gt;
+
+&lt;p&gt;This website will provide you with some examples of my work as well as my contact information. I will try to keep this site as current as possible and will be adding more content as it comes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nikita Voevodin</title>
+      <link>/authors/nikita-voevodin/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/nikita-voevodin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
