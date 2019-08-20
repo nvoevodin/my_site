@@ -24,7 +24,7 @@ name: Nikita Voevodin
 organizations:
 - name: Taxi & Limousine Commission of the New York City
   url: ""
-role: Senior Data Analyst
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
