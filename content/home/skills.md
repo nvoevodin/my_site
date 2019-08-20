@@ -18,36 +18,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "80%"
+  description = ""
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "RDBS"
-  description = "60%"  
+  description = ""  
   
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "30%"
+  description = ""
   
   [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "20%"
+  description = ""
   
 [[feature]]
   icon = "yandex-international"
   icon_pack = "fab"
   name = "ClickHouse DB"
-  description = "40%"  
+  description = ""  
   
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "HTML/CSS"
-  description = "70%"
+  description = ""
 
 +++
