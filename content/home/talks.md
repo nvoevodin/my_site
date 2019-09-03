@@ -12,7 +12,7 @@ subtitle = "The apps that I've built followwing tutorials with some of my own id
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 1

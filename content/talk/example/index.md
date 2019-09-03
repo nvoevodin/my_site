@@ -27,10 +27,7 @@ slides: example
 summary: An example talk using Academic's Markdown slides feature.
 tags: []
 title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
 ---
 
 {{% alert note %}}

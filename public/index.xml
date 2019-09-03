@@ -106,10 +106,26 @@
     </item>
     
     <item>
-      <title>TLC launches new data portal that shines light on Uber, Lyft’s obliteration of NYC’s cab industry</title>
-      <link>/publication/conference-paper/</link>
+      <title></title>
+      <link>/publication/cityandstate/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cityandstate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/curbed/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/curbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/daily_news/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>/publication/daily_news/</guid>
       <description></description>
     </item>
     
@@ -356,6 +372,14 @@ If you prefer to see what’s popular digitally, check out &lt;a href=&#34;https
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MK Sounds (Desktop only), HTML/CSS/JS</title>
+      <link>/project/mk/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/mk/</guid>
       <description></description>
     </item>
     
