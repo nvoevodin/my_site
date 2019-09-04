@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Expense budget practice app.
 tags:
-- Deep Learning
+- Practice Apps
+- All
 title: Budget App, HTML/CSS/JS
 url_code: ""
 url_pdf: ""

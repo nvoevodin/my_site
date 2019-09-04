@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Get you vehicle info from NHTSA API & some TLC public vehicle stats.
 tags:
-- Deep Learning
+- My Apps
+- All
 title: VIN Decoder for TLC, R SHINY
 url_code: ""
 url_pdf: ""

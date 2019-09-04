@@ -21,17 +21,17 @@ subtitle = "These are some of my personal projects as well as the ones I am invo
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
- # [[content.filter_button]]
-  #  name = "All"
-   # tag = "*"
+  [[content.filter_button]]
+    name = "My Apps"
+    tag = "My Apps"
 
- # [[content.filter_button]]
-  #  name = "Deep Learning"
-   # tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Practice Apps"
+    tag = "Practice Apps"
   
-  #[[content.filter_button]]
-   # name = "Other"
-   # tag = "Demo"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

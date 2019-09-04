@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Roll the dice practice game app.
 tags:
-- Deep Learning
+- Practice Apps
+- All
 title: Pig Game, HTML/CSS/JS
 url_code: ""
 url_pdf: ""

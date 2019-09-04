@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Dinamically displaying every nuclear explosion between 1945 and 1998.
 tags:
-- Deep Learning
+- My Apps
+- All
 title: Nuclear explosions map, R SHINY (under developement)
 url_code: ""
 url_pdf: ""

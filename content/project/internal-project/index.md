@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Comparing FHV activity by industries and areas by dinamicly rendering data on a map and outputing stats as html text.
 tags:
-- Deep Learning
+- My Apps
+- All
 title: TLC SEASONS & HOLIDAYS, R SHINY
 url_code: ""
 url_pdf: ""

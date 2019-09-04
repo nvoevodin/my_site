@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 summary: An App that tracks the International Space Station by live pulling its coordinates from NASA API.
 tags:
-- Demo
+- My Apps
+- All
 title: ISS TRACKER, R SHINY
 ---

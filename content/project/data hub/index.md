@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Toolbox for TLC analytics.
 tags:
-- Deep Learning
+- My Apps
+- All
 title: TLC DATA HUB, R SHINY
 url_code: ""
 url_pdf: ""

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practice Apps | Nikita Voevodin</title>
+    <link>/tags/practice-apps/</link>
+      <atom:link href="/tags/practice-apps/index.xml" rel="self" type="application/rss+xml" />
+    <description>Practice Apps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Practice Apps</title>
+      <link>/tags/practice-apps/</link>
+    </image>
+    
+    <item>
+      <title>Budget App, HTML/CSS/JS</title>
+      <link>/project/budget/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/budget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MK Sounds (Desktop only), HTML/CSS/JS</title>
+      <link>/project/mk/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/mk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pig Game, HTML/CSS/JS</title>
+      <link>/project/game/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/game/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

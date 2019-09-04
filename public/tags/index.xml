@@ -21,18 +21,26 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <title>All</title>
+      <link>/tags/all/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>My Apps</title>
+      <link>/tags/my-apps/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <guid>/tags/my-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practice Apps</title>
+      <link>/tags/practice-apps/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/practice-apps/</guid>
       <description></description>
     </item>
     

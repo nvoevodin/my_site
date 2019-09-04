@@ -12,7 +12,8 @@ links:
 slides: example
 summary: Sounds of Mortal Kombat practice app.
 tags:
-- Deep Learning
+- Practice Apps
+- All
 title: MK Sounds (Desktop only), HTML/CSS/JS
 url_code: ""
 url_pdf: ""
