@@ -67,5 +67,15 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = "2018-12-01"
   description = ""
+  
+  [[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/the-complete-javascript-course/"
+  title = "The Complete JavaScript Course 2019: Build Real Projects!"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = "2018-09-08"
+  description = ""
 
 +++
