@@ -1,11 +1,10 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: MPA, Public Policy
+  - course: MPA, Concentration in Data Analysis
     institution: Colin Powell School for Civic and Global Leadership
     year: 2017
   - course: BA, Political Science
@@ -14,7 +13,7 @@ education:
   - course: BS, Economics
     institution: Kaliningrad State Technical University
     year: 2011
-email: ""
+email: "voevodin.nv@gmail.com"
 interests:
 - Big Data
 - Software & Data Developement
@@ -24,7 +23,7 @@ name: Nikita Voevodin
 organizations:
 - name: Taxi & Limousine Commission of the New York City
   url: ""
-role: Data Analyst
+role: Senior Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,6 +31,9 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/mage_level_99
+- icon: github
+  icon_pack: fab
+  link: https://github.com/nvoevodin  
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/nvoevodin
@@ -43,6 +45,6 @@ user_groups:
 
 Welcome to my website. Here you can find out a little bit about me - my professional past, current activities, and future aspirations. 
 
-I am a professional data analyst and software developer with current concentration in interactive visualizations and database setup in the context of app development. Currently, I am a data analyst at the Taxi & Limousine Commission of the New York City. My work involves developing and automating big data processes, building and interacting with databases, creating apps and dashboards for TLC and public, as well as conducting high level research to empower impactful legislation in the area of city transportation. In my spare time I like to play beach volleyball, watch soccer and documentaries, and code a bit more. 
+I am a professional data engineer and software developer with current concentration in interactive visualizations and database setup in the context of app development. Currently, I am a senior data analyst at the Taxi & Limousine Commission of the New York City. My work involves developing and automating big data processes, building and interacting with databases, creating apps and dashboards for TLC and public, as well as conducting high level research to empower impactful legislation in the area of city transportation. In my spare time I like to play beach volleyball, watch soccer and documentaries, and code a bit more. 
 
 This website will provide you with some examples of my work as well as my contact information. I will try to keep this site as current as possible and will be adding more content as it comes.

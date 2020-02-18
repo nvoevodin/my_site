@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://35.239.120.32:8791
+external_link: https://nikitaprototypes.shinyapps.io/ISS_Tracker/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart

@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: "http://35.239.120.32:8789/"
+external_link: "https://nikitaprototypes.shinyapps.io/NuclearTests/"
 image:
   caption: 
   focal_point: Smart
