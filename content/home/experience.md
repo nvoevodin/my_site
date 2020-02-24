@@ -17,19 +17,36 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Data Analyst"
+  title = "Senior Data Analyst"
   company = "Taxi & Limousine Commission of the New York City"
   company_url = "https://www1.nyc.gov/site/tlc/index.page"
   location = "New York"
-  date_start = "2018-06-01"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Developing and automating big data processes
-  * Building and interacting with databases, creating apps and dashboards for the leadership and public
-  * Conducting high level research to impower impactful legislation in the area of city transportation
+  * Design, build, and interact with SQL Server, MySQL, PostgreSQL, Clickhouse databases, as well as aggregated
+warehousing solutions to produce metrics and updates for senior leadership
+  * Provide complete support and maintain TLC Data Hub and other apps. Research, prototype, and present new ideas to advance the agency’s mission and streamline internal operations
+  * Serve as a liaison for transferring data from TLC to the Mayors Office, other city agencies, as well as media outlets like NYT, WSJ, and New York Post
+  """
+
+[[experience]]
+  title = "Policy/Data Analyst"
+  company = "Taxi & Limousine Commission of the New York City"
+  company_url = "https://www1.nyc.gov/site/tlc/index.page"
+  location = "New York"
+  date_start = "2018-06-01"
+  date_end = "2019-10-01"
+  description = """
+  Responsibilities include:
+  
+  * Created a variety of apps and dashboards with designed and implemented backend database setups for both TLC and public consumption (eg., DataHub, VinDecoder, MeetUp App)
+  * Conducted advanced data analyses to assist agency initiatives, such as the Congestion Study and TLC Vehicle Cap
+  * Instituted a bi-weekly data meetup that connected analysts across multiple departments to engage and develop new products
   """
   
   [[experience]]
@@ -48,7 +65,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Legislative Analyst"
+  title = "Data Analyst"
   company = "New York State Assembly"
   company_url = "https://nyassembly.gov/"
   location = "New York"
@@ -57,9 +74,9 @@ date_format = "Jan 2006"
  description = """
   Responsibilities include:
   
-  * Drafted legislative proposals. Supervised a team of interns
-  * Worked with State funding
-  * Worked on assembly member's media exposure and PR
+  * Introduced SQL and Excel into the daily operation of the 72nd district office, which helped automate and streamline most of the data tasks
+  * Successfully distributed $4 million of NYS capital funding and $500,000 of discretional funding to the municipal and non-profit organizations of the 72 Assembly district
+  * Increased submission of legislation proposals by recruiting and supervising a team of interns
   """
 
 +++
