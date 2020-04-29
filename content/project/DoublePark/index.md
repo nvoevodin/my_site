@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: "https://www.pooper.cloud"
+external_link: "https://play.google.com/store/apps/details?id=com.vcoolstudio.doublePark&hl=en_US"
 image:
   caption: 
   focal_point: Smart
@@ -10,11 +10,11 @@ links:
   name: Follow
   url: 
 slides: example
-summary: Pooper is a fun prototype app. It is a full-stack app with backend written in R, SQL, and NodeJS, and frontend in ReactJS.
+summary: DoublePark is a drivers helper mobile app written using MySQL, NodeJs, and React-Native.
 tags:
 - My Apps
 - All
-title: Pooper App, ReactJS
+title: DoublePark, ReactJS
 url_code: ""
 url_pdf: ""
 url_slides: ""

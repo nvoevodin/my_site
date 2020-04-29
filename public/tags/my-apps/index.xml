@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>DoublePark, ReactJS</title>
+      <link>/project/doublepark/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/doublepark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ISS TRACKER, R SHINY</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -25,14 +33,6 @@
       <link>/project/nuk/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/nuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pooper App, ReactJS</title>
-      <link>/project/doublepark/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/doublepark/</guid>
       <description></description>
     </item>
     
