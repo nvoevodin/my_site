@@ -45,7 +45,7 @@ hero_media = "R.jpg"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 
 [cta]
-  url = "https://nvoevodin.github.io/R_Not_the_Best_Practices/  "
+  url = "https://bookdown.org/voevodin_nv/R_Not_the_Best_Practices/"
   label = "See the Book"
 +++ 
 
